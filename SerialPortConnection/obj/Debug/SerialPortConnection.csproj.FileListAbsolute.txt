@@ -1,0 +1,95 @@
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\硕\lora\SerialPortConnection-send\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-send\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-send\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-send\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\硕\lora\SerialPortConnection-send-EVE\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-EVE\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-EVE\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-EVE\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-EVE\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-send-EVE\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-send-EVE\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-send-EVE\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\硕\lora\SerialPortConnection-send-Bob-0609\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob-0609\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob-0609\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob-0609\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob-0609\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-send-Bob-0609\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-send-Bob-0609\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-send-Bob-0609\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\硕\lora\SerialPortConnection-send-Bob\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-send-Bob\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-send-Bob\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-send-Bob\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\硕\lora\SerialPortConnection-send-Bob0626-演示版本加缓冲区删除中断指令\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob0626-演示版本加缓冲区删除中断指令\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob0626-演示版本加缓冲区删除中断指令\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-send-Bob0626-演示版本加缓冲区删除中断指令\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-send-Bob0626-演示版本加缓冲区删除中断指令\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-send-Bob0626-演示版本加缓冲区删除中断指令\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\硕\lora\SerialPortConnection-send-Bob0626-演示版本加缓冲区删除中断指令\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob0626-演示版本加缓冲区删除中断指令\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动-调试\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动-调试\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动-调试\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动-调试\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动-调试\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动-调试\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动-调试\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-send-Bob0627-演示版本改指令删除中断指令且箭头和密钥滚动-调试\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本改指令删除中断指令且箭头和密钥滚动\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\硕\lora\SerialPortConnection-send-小车版0726-演示版本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+C:\Users\41973\Desktop\无人机\控制界面\SerialPortConnection-send-小车版0726-演示版本不加密钥\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+C:\Users\41973\Desktop\无人机\控制界面\SerialPortConnection-send-小车版0726-演示版本不加密钥\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+C:\Users\41973\Desktop\无人机\控制界面\SerialPortConnection-send-小车版0726-演示版本不加密钥\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+C:\Users\41973\Desktop\无人机\控制界面\SerialPortConnection-send-小车版0726-演示版本不加密钥\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+C:\Users\41973\Desktop\无人机\控制界面\SerialPortConnection-send-小车版0726-演示版本不加密钥\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+C:\Users\41973\Desktop\无人机\控制界面\SerialPortConnection-send-小车版0726-演示版本不加密钥\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+C:\Users\41973\Desktop\无人机\控制界面\SerialPortConnection-send-小车版0726-演示版本不加密钥\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
