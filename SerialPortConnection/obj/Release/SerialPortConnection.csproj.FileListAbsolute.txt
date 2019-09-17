@@ -98,3 +98,9 @@ C:\Users\41973\Desktop\project资料\无人机\源码 界面程序\删除未启�
 C:\Users\41973\Desktop\project资料\无人机\源码 界面程序\删除未启用后\程序源码 - 副本\用户SerialPortConnection - 副本\SerialPortConnection\obj\Release\SerialPortConnection.csproj.GenerateResource.Cache
 D:\VS2013\my_work\SerialPortConnection\SerialPortConnection\obj\Release\SerialPortConnection.exe
 D:\VS2013\my_work\SerialPortConnection\SerialPortConnection\obj\Release\SerialPortConnection.pdb
+D:\VS2013\my_work\SerialPortConnection\SerialPortConnection\bin\Release\SerialPortConnection.exe
+D:\VS2013\my_work\SerialPortConnection\SerialPortConnection\bin\Release\SerialPortConnection.pdb
+D:\VS2013\my_work\SerialPortConnection\SerialPortConnection\obj\Release\SerialPortConnection.csprojResolveAssemblyReference.cache
+D:\VS2013\my_work\SerialPortConnection\SerialPortConnection\obj\Release\SerialPortConnection.Form1.resources
+D:\VS2013\my_work\SerialPortConnection\SerialPortConnection\obj\Release\SerialPortConnection.Properties.Resources.resources
+D:\VS2013\my_work\SerialPortConnection\SerialPortConnection\obj\Release\SerialPortConnection.csproj.GenerateResource.Cache

@@ -3242,7 +3242,15 @@ namespace SerialPortConnection
                 string sendNOComma1 = sendNOComma.Replace('，', ' '); //去掉中文逗号
                 string strSendNoComma2 = sendNOComma1.Replace("0x", "");   //去掉0x
                 strSendNoComma2.Replace("0X", "");   //去掉0X
-                string[] strArray = strSendNoComma2.Split(' ');
+
+                //统一字符串格式
+                string strSendNoComma3 = strSendNoComma2.Replace(" ", "");
+                int length = strSendNoComma3.Length;
+                string[] strArray = new string[length/2];
+                for(int i =0 ; i < length/2; i++)
+                {
+                    strArray[i] = strSendNoComma3.Substring(i * 2, 2);
+                }
 
                 int byteBufferLength = strArray.Length;
                 for (int i = 0; i < strArray.Length; i++)
